@@ -22,3 +22,8 @@ To add all files to the staging area which you have changed, use the command as 
 ```
 git add .
 ```
+### Commit changes to local repository
+To commit the new changes we use commit command along with a new message which tells what changes or features were done.
+```
+git commit -m "commit message"
+```
